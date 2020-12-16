@@ -38,8 +38,8 @@ def main():
             print("")
         else:
             if base_int <= 0:
-                print("You have not a valid base length, please input a"
-                      " positive number!")
+                print("You have not inputted a valid base length, please input"
+                      " a positive number!")
                 print("")
             else:
                 break
@@ -53,8 +53,8 @@ def main():
             print("")
         else:
             if height_int <= 0:
-                print("You have not a valid base length, please input a"
-                      " positive number!")
+                print("You have not inputted a valid base length, please input"
+                      " a positive number!")
                 print("")
             else:
                 break
